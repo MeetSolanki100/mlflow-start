@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433491267318200617/80fe6b34f77440b993be1e219f8bb9fb/artifacts
+end_time: 1729321983231
+entry_point_name: ''
+experiment_id: '433491267318200617'
+lifecycle_stage: active
+run_id: 80fe6b34f77440b993be1e219f8bb9fb
+run_name: wise-slug-258
+run_uuid: 80fe6b34f77440b993be1e219f8bb9fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729321977672
+status: 3
+tags: []
+user_id: Meet

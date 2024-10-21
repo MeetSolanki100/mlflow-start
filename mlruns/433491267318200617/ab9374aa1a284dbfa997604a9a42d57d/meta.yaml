@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/433491267318200617/ab9374aa1a284dbfa997604a9a42d57d/artifacts
+end_time: 1729321578906
+entry_point_name: ''
+experiment_id: '433491267318200617'
+lifecycle_stage: active
+run_id: ab9374aa1a284dbfa997604a9a42d57d
+run_name: glamorous-crane-364
+run_uuid: ab9374aa1a284dbfa997604a9a42d57d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729321569895
+status: 3
+tags: []
+user_id: Meet

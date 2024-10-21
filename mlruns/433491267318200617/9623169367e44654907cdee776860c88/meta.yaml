@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/433491267318200617/9623169367e44654907cdee776860c88/artifacts
+deleted_time: 1729530526594
+end_time: 1729530504293
+entry_point_name: ''
+experiment_id: '433491267318200617'
+lifecycle_stage: deleted
+run_id: 9623169367e44654907cdee776860c88
+run_name: gregarious-owl-244
+run_uuid: 9623169367e44654907cdee776860c88
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1729530497530
+status: 4
+tags: []
+user_id: Meet
